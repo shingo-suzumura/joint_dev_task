@@ -347,6 +347,7 @@ foreach($humans as $human){
   $zoo->info_entry_fee($human);
 }
 
+
 echo PHP_EOL;
 
 print("#####q21#####".PHP_EOL);
